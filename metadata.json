@@ -1,0 +1,5 @@
+{
+  "name": "InstaGen",
+  "description": "AI Image Generator for Instagram with 4:5 and 5:4 aspect ratios.",
+  "requestFramePermissions": []
+}
